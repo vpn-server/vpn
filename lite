@@ -4,8 +4,4 @@
 #profile-title: Chrime VPN
 #announce: base64:0KHQvtC30LTQsNC90L4g0LrQvtC80LDQvdC00L7QuSBAY2hyaW1lX2NoYW5uZWwgfCBMaXRlIFN1YnNjcmlwdGlvbg== 
 vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.240.57.18:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&sid=15cdd4ff88310cf0&sni=desrv.fasti.win#Самый быстрый 🚀 🇩🇪
-vless://8f31ed6e-c574-40a9-80e5-35445e63f548@nld.pink-service.ru:11443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad&sni=www.google.com#0001 | 🌐 Unknown | By @ovi_user
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.14:8880?type=ws&security=none&encryption=none&path=%2FFree-VPN-CF-Geo-Project%2FHK&host=joss.gvpn2.web.id#0002 | 🇫🇷 France | By @ovi_user
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@89.208.230.48:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687&sni=m.vk.com&headerType=none#0003 | 🇷🇺 Russia | By @ovi_user
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ@213.159.66.206:443?#0005 | 🇧🇷 Brazil | By @ovi_user
-vless://46e274b0-8033-4011-b1a0-9d05c3531a79@hkg.tunnelguard.ru:443?type=xhttp&security=tls&encryption=none&path=%2F&mode=auto#0006 | 🌐 Unknown | By @ovi_user
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#0981 | 🇳🇴 Norway | 🇳🇴Норвегия
